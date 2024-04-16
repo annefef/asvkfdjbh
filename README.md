@@ -1,1 +1,2 @@
 Efficient Federated Learning via Information Assembler - additional experiment results
+plot.png file: Top panels show the simulation results of logistic regressions and bottom panels show the simulation results of linear regression. Columns represent the $\epsilon=1$, $\epsilon=2$, and $\epsilon=8$, respectively. The dimension is fixed at $p=16$. For each scenario, the average of log-transformed $L_2$-distances between estimated and true coefficients are reported for all methods considered.
